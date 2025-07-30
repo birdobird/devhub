@@ -50,11 +50,11 @@ export default function About() {
         <div className="space-y-4 text-gray-300">
           <p>
             At DevHub, we believe in empowering developers with the knowledge and tools they need to bring their ideas to life. 
-            Whether you're just starting your coding journey or you're a seasoned professional, our platform is designed to help 
+            Whether you&apos;re just starting your coding journey or you&apos;re a seasoned professional, our platform is designed to help 
             you grow and succeed in the ever-evolving world of technology.
           </p>
           <p>
-            We're committed to building a supportive community where developers can share their experiences, learn from each other, 
+            We&apos;re committed to building a supportive community where developers can share their experiences, learn from each other, 
             and collaborate on exciting projects. Our goal is to make technology more accessible and to help shape the future of 
             software development.
           </p>

@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import { Dev } from "@/types/dev";
-import { ArrowRight, Github, Globe } from "lucide-react";
+import { ArrowRight, Globe } from "lucide-react";
 
 interface DevCardProps {
   dev: Dev;

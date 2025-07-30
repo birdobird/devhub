@@ -1,5 +1,6 @@
 "use client";
 
+import { use } from "react";
 import { notFound } from "next/navigation";
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
@@ -8,11 +9,12 @@ import Link from "next/link";
 import devs from "@/data/devs.json";
 
 interface DevProfileClientProps {
-  params: { username: string };
+  params: Promise<{ username: string }>;
 }
 
 export default function DevProfileClient({ params }: DevProfileClientProps) {
-  const dev = devs.find((dev) => dev.username === params.username);
+  const { username } = use(params);
+  const dev = devs.find((dev) => dev.username === username);
   
   if (!dev) {
     notFound();

@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import Link from "next/link";
-import { FaGithub, FaLinkedin, FaGlobe, FaMapMarkerAlt, FaCode } from "react-icons/fa";
+import { FaGlobe, FaMapMarkerAlt, FaCode } from "react-icons/fa";
 import devs from "@/data/devs.json";
 
 export default function Devs() {
