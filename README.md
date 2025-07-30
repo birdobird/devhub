@@ -6,12 +6,6 @@
 
 DevHub is a modern developer community platform built with Next.js and TypeScript, featuring a clean dark theme. It connects developers worldwide, allowing them to showcase their skills, explore tech stacks, and collaborate on projects in a streamlined, professional environment.
 
-  <a href="https://devhub-psi-ten-61.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-%F0%9F%9A%80-blue?style=for-the-badge" alt="Live Demo" />
-  </a>
-
-  <br /><br />
-
 ## ✨ Features
 
 - **Modern Tech Stack**: Built with Next.js 13+, TypeScript, and Tailwind CSS
