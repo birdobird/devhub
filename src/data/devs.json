@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "username": "janekdev",
+    "name": "Jan Kowalski",
+    "bio": "Frontend Developer with passion for React and TypeScript.",
+    "location": "Warszawa, Polska",
+    "technologies": ["React", "TypeScript", "Next.js", "Tailwind CSS"],
+    "avatar": "/avatars/janek.png",
+    "website": "https://janek.dev"
+  },
+  {
+    "id": "2",
+    "username": "annajs",
+    "name": "Anna Nowak",
+    "bio": "Fullstack Developer. Backend in Node.js, frontend in React.",
+    "location": "Kraków, Polska",
+    "technologies": ["Node.js", "React", "PostgreSQL", "Docker"],
+    "avatar": "/avatars/anna.png",
+    "website": "https://anna.now"
+  },
+  {
+    "id": "3",
+    "username": "pawel-ai",
+    "name": "Paweł Wiśniewski",
+    "bio": "Inżynier AI and data scientist. Fan Python and TensorFlow.",
+    "location": "Gdańsk, Polska",
+    "technologies": ["Python", "TensorFlow", "PyTorch", "Next.js"],
+    "avatar": "/avatars/pawel.png",
+    "website": "https://pawel.ai"
+  }
+]
